@@ -1,0 +1,77 @@
+.quote{
+  text-align: center;
+
+}
+
+.skills{
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right:auto;
+  color: #40E0D0;
+
+}
+.fml{
+  color:black;
+  text-align:center;
+}
+.fmh{
+  color:#F08080;
+  text-align: center;
+
+}
+.fm{
+  height:450px;
+}
+.d-block{
+  height:550px;
+}
+.q{
+  font-style: italic;
+
+  text-align:center;
+  color:#40E0D0;
+}
+.wm{
+  width:50px;
+  height:50px;
+  margin-left:30px;
+  margin-top:100px;
+}
+.CR{
+  margin-top:20px;
+  text-align: center;
+}
+.A1{
+  width:450px;
+  height:280px;
+  margin-top:50px;
+  margin-left:50px;
+}
+.A2{
+  margin-top:100px;
+  margin-left:300px;
+  text-align:center;
+}
+.A3{
+  margin-top:60px;
+ margin-left:100px;
+  width:400px;
+  height:300px;
+
+}
+.A4{
+  margin-top:60px;
+ margin-left:90px;
+ text-align:center;
+}
+.S{
+  color:#0020C2;
+}
+.Q{
+  color:#20B2AA;
+}
+.f1{
+  text-align: center;
+}
